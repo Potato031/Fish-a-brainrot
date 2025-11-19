@@ -14,7 +14,6 @@ FishingModule.RarityWeights = {
 	["Brainrot God (Lucky Box)"] = 0.1,
 	Secret = 0.05
 }
-
 FishingModule.ImmunityDurations = {
 	Common = 1,
 	Rare = 1.8,
@@ -25,7 +24,6 @@ FishingModule.ImmunityDurations = {
 	["Brainrot God (Lucky Box)"] = 4.0,
 	Secret = 5.0
 }
-
 FishingModule.BrainrotList = require(game.ServerScriptService.Server.Modules.BrainrotList).BrainrotsList
 
 function FishingModule.GetEquippedRod(player)
