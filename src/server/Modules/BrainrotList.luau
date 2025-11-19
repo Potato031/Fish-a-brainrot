@@ -1,5 +1,5 @@
 local brainrots = {}
--- penil
+-- penile
 brainrots.BrainrotsList = {
 	-- Common – all settings from the last Common
 	{ name = "Noobini Pizzanini", moveSpeed = 1.4, catchTime = 3.5, rarity = "Common", value = 25, baseWeight = 0.52 },
