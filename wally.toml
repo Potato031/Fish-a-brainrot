@@ -1,0 +1,8 @@
+[package]
+name = "potato/teamchanger"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+nature2d = "jaipack17/nature2d@0.7.1"
