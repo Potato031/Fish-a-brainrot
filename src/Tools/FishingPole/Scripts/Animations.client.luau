@@ -1,4 +1,3 @@
--- tese
 local _humanoid = nil
 local char = nil
 local player = nil
